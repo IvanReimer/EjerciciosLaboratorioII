@@ -1,0 +1,6 @@
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\_RepasoPrimerParcial\Consola\bin\Debug\Consola.exe.config
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\_RepasoPrimerParcial\Consola\bin\Debug\Consola.exe
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\_RepasoPrimerParcial\Consola\bin\Debug\Consola.pdb
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\_RepasoPrimerParcial\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\_RepasoPrimerParcial\Consola\obj\Debug\Consola.exe
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\_RepasoPrimerParcial\Consola\obj\Debug\Consola.pdb

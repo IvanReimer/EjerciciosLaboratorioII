@@ -1,0 +1,10 @@
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\RepasoPrimerParcialCochera\VistaConsola\bin\Debug\VistaConsola.exe.config
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\RepasoPrimerParcialCochera\VistaConsola\bin\Debug\VistaConsola.exe
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\RepasoPrimerParcialCochera\VistaConsola\bin\Debug\VistaConsola.pdb
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\RepasoPrimerParcialCochera\VistaConsola\bin\Debug\Entidades.dll
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\RepasoPrimerParcialCochera\VistaConsola\bin\Debug\Entidades.pdb
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\RepasoPrimerParcialCochera\VistaConsola\obj\Debug\VistaConsola.csprojAssemblyReference.cache
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\RepasoPrimerParcialCochera\VistaConsola\obj\Debug\VistaConsola.csproj.CoreCompileInputs.cache
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\RepasoPrimerParcialCochera\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\RepasoPrimerParcialCochera\VistaConsola\obj\Debug\VistaConsola.exe
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\RepasoPrimerParcialCochera\VistaConsola\obj\Debug\VistaConsola.pdb

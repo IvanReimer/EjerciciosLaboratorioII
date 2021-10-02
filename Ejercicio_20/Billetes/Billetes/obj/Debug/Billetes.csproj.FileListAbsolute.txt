@@ -1,0 +1,6 @@
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_20\Billetes\Billetes\obj\Debug\Billetes.csprojAssemblyReference.cache
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_20\Billetes\Billetes\obj\Debug\Billetes.csproj.CoreCompileInputs.cache
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_20\Billetes\Billetes\bin\Debug\Billetes.dll
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_20\Billetes\Billetes\bin\Debug\Billetes.pdb
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_20\Billetes\Billetes\obj\Debug\Billetes.dll
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_20\Billetes\Billetes\obj\Debug\Billetes.pdb

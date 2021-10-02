@@ -1,0 +1,6 @@
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_36\CompetenciaCarrera\bin\Debug\CompetenciaCarrera.dll
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_36\CompetenciaCarrera\bin\Debug\CompetenciaCarrera.pdb
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_36\CompetenciaCarrera\obj\Debug\CompetenciaCarrera.csprojAssemblyReference.cache
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_36\CompetenciaCarrera\obj\Debug\CompetenciaCarrera.csproj.CoreCompileInputs.cache
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_36\CompetenciaCarrera\obj\Debug\CompetenciaCarrera.dll
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_36\CompetenciaCarrera\obj\Debug\CompetenciaCarrera.pdb

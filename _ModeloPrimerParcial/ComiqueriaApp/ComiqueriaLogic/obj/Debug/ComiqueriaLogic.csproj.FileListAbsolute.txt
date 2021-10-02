@@ -1,0 +1,6 @@
+C:\Users\ivan.reimer\Desktop\ProgramacionII\_ModeloPrimerParcial\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.dll
+C:\Users\ivan.reimer\Desktop\ProgramacionII\_ModeloPrimerParcial\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.pdb
+C:\Users\ivan.reimer\Desktop\ProgramacionII\_ModeloPrimerParcial\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.csprojAssemblyReference.cache
+C:\Users\ivan.reimer\Desktop\ProgramacionII\_ModeloPrimerParcial\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.csproj.CoreCompileInputs.cache
+C:\Users\ivan.reimer\Desktop\ProgramacionII\_ModeloPrimerParcial\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.dll
+C:\Users\ivan.reimer\Desktop\ProgramacionII\_ModeloPrimerParcial\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.pdb

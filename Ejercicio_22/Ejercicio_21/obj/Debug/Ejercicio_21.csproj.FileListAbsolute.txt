@@ -1,0 +1,10 @@
+C:\Users\ivan.reimer\source\repos\Ejercicio_21\Ejercicio_21\bin\Debug\Ejercicio_21.exe.config
+C:\Users\ivan.reimer\source\repos\Ejercicio_21\Ejercicio_21\bin\Debug\Ejercicio_21.exe
+C:\Users\ivan.reimer\source\repos\Ejercicio_21\Ejercicio_21\bin\Debug\Ejercicio_21.pdb
+C:\Users\ivan.reimer\source\repos\Ejercicio_21\Ejercicio_21\bin\Debug\Conversor.dll
+C:\Users\ivan.reimer\source\repos\Ejercicio_21\Ejercicio_21\bin\Debug\Conversor.pdb
+C:\Users\ivan.reimer\source\repos\Ejercicio_21\Ejercicio_21\obj\Debug\Ejercicio_21.csprojAssemblyReference.cache
+C:\Users\ivan.reimer\source\repos\Ejercicio_21\Ejercicio_21\obj\Debug\Ejercicio_21.csproj.CoreCompileInputs.cache
+C:\Users\ivan.reimer\source\repos\Ejercicio_21\Ejercicio_21\obj\Debug\Ejercicio_21.csproj.CopyComplete
+C:\Users\ivan.reimer\source\repos\Ejercicio_21\Ejercicio_21\obj\Debug\Ejercicio_21.exe
+C:\Users\ivan.reimer\source\repos\Ejercicio_21\Ejercicio_21\obj\Debug\Ejercicio_21.pdb

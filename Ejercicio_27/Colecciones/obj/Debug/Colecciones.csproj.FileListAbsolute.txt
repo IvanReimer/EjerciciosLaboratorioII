@@ -1,0 +1,12 @@
+C:\Users\ivan.reimer\source\repos\Ejercicio_27\Colecciones\bin\Debug\Colecciones.dll
+C:\Users\ivan.reimer\source\repos\Ejercicio_27\Colecciones\bin\Debug\Colecciones.pdb
+C:\Users\ivan.reimer\source\repos\Ejercicio_27\Colecciones\obj\Debug\Colecciones.csprojAssemblyReference.cache
+C:\Users\ivan.reimer\source\repos\Ejercicio_27\Colecciones\obj\Debug\Colecciones.csproj.CoreCompileInputs.cache
+C:\Users\ivan.reimer\source\repos\Ejercicio_27\Colecciones\obj\Debug\Colecciones.dll
+C:\Users\ivan.reimer\source\repos\Ejercicio_27\Colecciones\obj\Debug\Colecciones.pdb
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_27\Colecciones\bin\Debug\Colecciones.dll
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_27\Colecciones\bin\Debug\Colecciones.pdb
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_27\Colecciones\obj\Debug\Colecciones.csprojAssemblyReference.cache
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_27\Colecciones\obj\Debug\Colecciones.csproj.CoreCompileInputs.cache
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_27\Colecciones\obj\Debug\Colecciones.dll
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_27\Colecciones\obj\Debug\Colecciones.pdb

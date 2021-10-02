@@ -1,0 +1,13 @@
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_28\FormDiccionario\bin\Debug\FormDiccionario.exe.config
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_28\FormDiccionario\bin\Debug\FormDiccionario.exe
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_28\FormDiccionario\bin\Debug\FormDiccionario.pdb
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_28\FormDiccionario\obj\Debug\FormDiccionario.csprojAssemblyReference.cache
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_28\FormDiccionario\obj\Debug\FormDiccionario.FormDiccionario.resources
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_28\FormDiccionario\obj\Debug\FormDiccionario.Properties.Resources.resources
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_28\FormDiccionario\obj\Debug\FormDiccionario.csproj.GenerateResource.cache
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_28\FormDiccionario\obj\Debug\FormDiccionario.csproj.CoreCompileInputs.cache
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_28\FormDiccionario\obj\Debug\FormDiccionario.exe
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_28\FormDiccionario\obj\Debug\FormDiccionario.pdb
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_28\FormDiccionario\bin\Debug\Diccionario.dll
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_28\FormDiccionario\bin\Debug\Diccionario.pdb
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_28\FormDiccionario\obj\Debug\FormDiccionario.csproj.CopyComplete

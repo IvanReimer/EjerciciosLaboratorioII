@@ -1,0 +1,10 @@
+C:\Users\ivan.reimer\source\repos\Ejercicio_56\FormEditorDeTexto\bin\Debug\FormEditorDeTexto.exe.config
+C:\Users\ivan.reimer\source\repos\Ejercicio_56\FormEditorDeTexto\bin\Debug\FormEditorDeTexto.exe
+C:\Users\ivan.reimer\source\repos\Ejercicio_56\FormEditorDeTexto\bin\Debug\FormEditorDeTexto.pdb
+C:\Users\ivan.reimer\source\repos\Ejercicio_56\FormEditorDeTexto\obj\Debug\FormEditorDeTexto.csprojAssemblyReference.cache
+C:\Users\ivan.reimer\source\repos\Ejercicio_56\FormEditorDeTexto\obj\Debug\FormEditorDeTexto.FrmEditorDeTexto.resources
+C:\Users\ivan.reimer\source\repos\Ejercicio_56\FormEditorDeTexto\obj\Debug\FormEditorDeTexto.Properties.Resources.resources
+C:\Users\ivan.reimer\source\repos\Ejercicio_56\FormEditorDeTexto\obj\Debug\FormEditorDeTexto.csproj.GenerateResource.cache
+C:\Users\ivan.reimer\source\repos\Ejercicio_56\FormEditorDeTexto\obj\Debug\FormEditorDeTexto.csproj.CoreCompileInputs.cache
+C:\Users\ivan.reimer\source\repos\Ejercicio_56\FormEditorDeTexto\obj\Debug\FormEditorDeTexto.exe
+C:\Users\ivan.reimer\source\repos\Ejercicio_56\FormEditorDeTexto\obj\Debug\FormEditorDeTexto.pdb

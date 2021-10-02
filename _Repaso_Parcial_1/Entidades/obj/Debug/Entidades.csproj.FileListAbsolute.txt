@@ -1,0 +1,12 @@
+C:\Users\ivan.reimer\Desktop\20191010-PrimerParcial-alumno\Entidades\bin\Debug\Entidades.dll
+C:\Users\ivan.reimer\Desktop\20191010-PrimerParcial-alumno\Entidades\bin\Debug\Entidades.pdb
+C:\Users\ivan.reimer\Desktop\20191010-PrimerParcial-alumno\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\ivan.reimer\Desktop\20191010-PrimerParcial-alumno\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\ivan.reimer\Desktop\20191010-PrimerParcial-alumno\Entidades\obj\Debug\Entidades.dll
+C:\Users\ivan.reimer\Desktop\20191010-PrimerParcial-alumno\Entidades\obj\Debug\Entidades.pdb
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\_Repaso_Parcial_1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\_Repaso_Parcial_1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\_Repaso_Parcial_1\Entidades\obj\Debug\Entidades.dll
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\_Repaso_Parcial_1\Entidades\obj\Debug\Entidades.pdb
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\_Repaso_Parcial_1\Entidades\bin\Debug\Entidades.dll
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\_Repaso_Parcial_1\Entidades\bin\Debug\Entidades.pdb

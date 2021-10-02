@@ -1,0 +1,12 @@
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_23\Monedas\Monedas\bin\Debug\Monedas.dll
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_23\Monedas\Monedas\bin\Debug\Monedas.pdb
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_23\Monedas\Monedas\obj\Debug\Monedas.csprojAssemblyReference.cache
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_23\Monedas\Monedas\obj\Debug\Monedas.csproj.CoreCompileInputs.cache
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_23\Monedas\Monedas\obj\Debug\Monedas.dll
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_23\Monedas\Monedas\obj\Debug\Monedas.pdb
+C:\Users\ivanr\OneDrive\Escritorio\ProgramacionII\Ejercicios\Ejercicio_23\Monedas\bin\Debug\Monedas.dll
+C:\Users\ivanr\OneDrive\Escritorio\ProgramacionII\Ejercicios\Ejercicio_23\Monedas\bin\Debug\Monedas.pdb
+C:\Users\ivanr\OneDrive\Escritorio\ProgramacionII\Ejercicios\Ejercicio_23\Monedas\obj\Debug\Monedas.csprojAssemblyReference.cache
+C:\Users\ivanr\OneDrive\Escritorio\ProgramacionII\Ejercicios\Ejercicio_23\Monedas\obj\Debug\Monedas.csproj.CoreCompileInputs.cache
+C:\Users\ivanr\OneDrive\Escritorio\ProgramacionII\Ejercicios\Ejercicio_23\Monedas\obj\Debug\Monedas.dll
+C:\Users\ivanr\OneDrive\Escritorio\ProgramacionII\Ejercicios\Ejercicio_23\Monedas\obj\Debug\Monedas.pdb

@@ -1,0 +1,6 @@
+C:\Users\ivan.reimer\source\repos\Repaso\PrimerRepaso\bin\Debug\PrimerRepaso.dll
+C:\Users\ivan.reimer\source\repos\Repaso\PrimerRepaso\bin\Debug\PrimerRepaso.pdb
+C:\Users\ivan.reimer\source\repos\Repaso\PrimerRepaso\obj\Debug\Repaso.csprojAssemblyReference.cache
+C:\Users\ivan.reimer\source\repos\Repaso\PrimerRepaso\obj\Debug\Repaso.csproj.CoreCompileInputs.cache
+C:\Users\ivan.reimer\source\repos\Repaso\PrimerRepaso\obj\Debug\PrimerRepaso.dll
+C:\Users\ivan.reimer\source\repos\Repaso\PrimerRepaso\obj\Debug\PrimerRepaso.pdb

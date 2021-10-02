@@ -1,0 +1,7 @@
+C:\Users\ivan.reimer\source\repos\Ejercicio_38\Sobreescrito\bin\Debug\Sobreescrito.exe.config
+C:\Users\ivan.reimer\source\repos\Ejercicio_38\Sobreescrito\bin\Debug\Sobreescrito.exe
+C:\Users\ivan.reimer\source\repos\Ejercicio_38\Sobreescrito\bin\Debug\Sobreescrito.pdb
+C:\Users\ivan.reimer\source\repos\Ejercicio_38\Sobreescrito\obj\Debug\Sobreescrito.csprojAssemblyReference.cache
+C:\Users\ivan.reimer\source\repos\Ejercicio_38\Sobreescrito\obj\Debug\Sobreescrito.csproj.CoreCompileInputs.cache
+C:\Users\ivan.reimer\source\repos\Ejercicio_38\Sobreescrito\obj\Debug\Sobreescrito.exe
+C:\Users\ivan.reimer\source\repos\Ejercicio_38\Sobreescrito\obj\Debug\Sobreescrito.pdb

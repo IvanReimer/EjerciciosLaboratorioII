@@ -1,0 +1,6 @@
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicio_19\Ejercicio_19\Sumador\bin\Debug\Sumador.dll
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicio_19\Ejercicio_19\Sumador\bin\Debug\Sumador.pdb
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicio_19\Ejercicio_19\Sumador\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicio_19\Ejercicio_19\Sumador\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicio_19\Ejercicio_19\Sumador\obj\Debug\Sumador.dll
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicio_19\Ejercicio_19\Sumador\obj\Debug\Sumador.pdb

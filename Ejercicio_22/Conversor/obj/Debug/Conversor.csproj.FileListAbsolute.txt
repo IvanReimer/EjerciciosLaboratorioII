@@ -1,0 +1,12 @@
+C:\Users\ivan.reimer\source\repos\Ejercicio_21\Conversor\bin\Debug\Conversor.dll
+C:\Users\ivan.reimer\source\repos\Ejercicio_21\Conversor\bin\Debug\Conversor.pdb
+C:\Users\ivan.reimer\source\repos\Ejercicio_21\Conversor\obj\Debug\Conversor.csprojAssemblyReference.cache
+C:\Users\ivan.reimer\source\repos\Ejercicio_21\Conversor\obj\Debug\Conversor.csproj.CoreCompileInputs.cache
+C:\Users\ivan.reimer\source\repos\Ejercicio_21\Conversor\obj\Debug\Conversor.dll
+C:\Users\ivan.reimer\source\repos\Ejercicio_21\Conversor\obj\Debug\Conversor.pdb
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_22\Conversor\obj\Debug\Conversor.csprojAssemblyReference.cache
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_22\Conversor\obj\Debug\Conversor.csproj.CoreCompileInputs.cache
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_22\Conversor\obj\Debug\Conversor.dll
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_22\Conversor\obj\Debug\Conversor.pdb
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_22\Conversor\bin\Debug\Conversor.dll
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_22\Conversor\bin\Debug\Conversor.pdb

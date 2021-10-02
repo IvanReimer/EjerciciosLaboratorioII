@@ -1,0 +1,10 @@
+C:\Users\ivan.reimer\source\repos\Repaso\TestEstante\bin\Debug\TestEstante.exe.config
+C:\Users\ivan.reimer\source\repos\Repaso\TestEstante\bin\Debug\TestEstante.exe
+C:\Users\ivan.reimer\source\repos\Repaso\TestEstante\bin\Debug\TestEstante.pdb
+C:\Users\ivan.reimer\source\repos\Repaso\TestEstante\bin\Debug\PrimerRepaso.dll
+C:\Users\ivan.reimer\source\repos\Repaso\TestEstante\bin\Debug\PrimerRepaso.pdb
+C:\Users\ivan.reimer\source\repos\Repaso\TestEstante\obj\Debug\TestEstante.csprojAssemblyReference.cache
+C:\Users\ivan.reimer\source\repos\Repaso\TestEstante\obj\Debug\TestEstante.csproj.CoreCompileInputs.cache
+C:\Users\ivan.reimer\source\repos\Repaso\TestEstante\obj\Debug\TestEstante.csproj.CopyComplete
+C:\Users\ivan.reimer\source\repos\Repaso\TestEstante\obj\Debug\TestEstante.exe
+C:\Users\ivan.reimer\source\repos\Repaso\TestEstante\obj\Debug\TestEstante.pdb

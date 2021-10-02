@@ -1,0 +1,6 @@
+C:\Users\ivanr\OneDrive\Escritorio\ProgramacionII\Ejercicios\Ejercicio_60\Entidades\bin\Debug\Entidades.dll
+C:\Users\ivanr\OneDrive\Escritorio\ProgramacionII\Ejercicios\Ejercicio_60\Entidades\bin\Debug\Entidades.pdb
+C:\Users\ivanr\OneDrive\Escritorio\ProgramacionII\Ejercicios\Ejercicio_60\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\ivanr\OneDrive\Escritorio\ProgramacionII\Ejercicios\Ejercicio_60\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\ivanr\OneDrive\Escritorio\ProgramacionII\Ejercicios\Ejercicio_60\Entidades\obj\Debug\Entidades.dll
+C:\Users\ivanr\OneDrive\Escritorio\ProgramacionII\Ejercicios\Ejercicio_60\Entidades\obj\Debug\Entidades.pdb

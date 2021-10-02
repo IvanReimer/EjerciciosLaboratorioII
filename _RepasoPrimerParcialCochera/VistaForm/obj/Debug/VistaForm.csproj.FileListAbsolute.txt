@@ -1,0 +1,13 @@
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\RepasoPrimerParcialCochera\VistaForm\bin\Debug\VistaForm.exe.config
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\RepasoPrimerParcialCochera\VistaForm\bin\Debug\VistaForm.exe
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\RepasoPrimerParcialCochera\VistaForm\bin\Debug\VistaForm.pdb
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\RepasoPrimerParcialCochera\VistaForm\bin\Debug\Entidades.dll
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\RepasoPrimerParcialCochera\VistaForm\bin\Debug\Entidades.pdb
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\RepasoPrimerParcialCochera\VistaForm\obj\Debug\VistaForm.csprojAssemblyReference.cache
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\RepasoPrimerParcialCochera\VistaForm\obj\Debug\VistaForm.FrmPickUp.resources
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\RepasoPrimerParcialCochera\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\RepasoPrimerParcialCochera\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.cache
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\RepasoPrimerParcialCochera\VistaForm\obj\Debug\VistaForm.csproj.CoreCompileInputs.cache
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\RepasoPrimerParcialCochera\VistaForm\obj\Debug\VistaForm.csproj.CopyComplete
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\RepasoPrimerParcialCochera\VistaForm\obj\Debug\VistaForm.exe
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\RepasoPrimerParcialCochera\VistaForm\obj\Debug\VistaForm.pdb

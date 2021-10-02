@@ -1,0 +1,15 @@
+C:\Users\ivanr\OneDrive\Escritorio\ProgramacionII\Ejercicios\Ejercicio_60\Ejercicio60\bin\Debug\Ejercicio60.exe.config
+C:\Users\ivanr\OneDrive\Escritorio\ProgramacionII\Ejercicios\Ejercicio_60\Ejercicio60\bin\Debug\Ejercicio60.exe
+C:\Users\ivanr\OneDrive\Escritorio\ProgramacionII\Ejercicios\Ejercicio_60\Ejercicio60\bin\Debug\Ejercicio60.pdb
+C:\Users\ivanr\OneDrive\Escritorio\ProgramacionII\Ejercicios\Ejercicio_60\Ejercicio60\obj\Debug\Ejercicio60.csprojAssemblyReference.cache
+C:\Users\ivanr\OneDrive\Escritorio\ProgramacionII\Ejercicios\Ejercicio_60\Ejercicio60\obj\Debug\Ejercicio60.Properties.Resources.resources
+C:\Users\ivanr\OneDrive\Escritorio\ProgramacionII\Ejercicios\Ejercicio_60\Ejercicio60\obj\Debug\Ejercicio60.csproj.GenerateResource.cache
+C:\Users\ivanr\OneDrive\Escritorio\ProgramacionII\Ejercicios\Ejercicio_60\Ejercicio60\obj\Debug\Ejercicio60.csproj.CoreCompileInputs.cache
+C:\Users\ivanr\OneDrive\Escritorio\ProgramacionII\Ejercicios\Ejercicio_60\Ejercicio60\obj\Debug\Ejercicio60.exe
+C:\Users\ivanr\OneDrive\Escritorio\ProgramacionII\Ejercicios\Ejercicio_60\Ejercicio60\obj\Debug\Ejercicio60.pdb
+C:\Users\ivanr\OneDrive\Escritorio\ProgramacionII\Ejercicios\Ejercicio_60\Ejercicio60\obj\Debug\Ejercicio60.AdventureWorks.resources
+C:\Users\ivanr\OneDrive\Escritorio\ProgramacionII\Ejercicios\Ejercicio_60\Ejercicio60\obj\Debug\Ejercicio60.AltaProducto.resources
+C:\Users\ivanr\OneDrive\Escritorio\ProgramacionII\Ejercicios\Ejercicio_60\Ejercicio60\bin\Debug\Entidades.dll
+C:\Users\ivanr\OneDrive\Escritorio\ProgramacionII\Ejercicios\Ejercicio_60\Ejercicio60\bin\Debug\Entidades.pdb
+C:\Users\ivanr\OneDrive\Escritorio\ProgramacionII\Ejercicios\Ejercicio_60\Ejercicio60\obj\Debug\Ejercicio60.csproj.CopyComplete
+C:\Users\ivanr\OneDrive\Escritorio\ProgramacionII\Ejercicios\Ejercicio_60\Ejercicio60\obj\Debug\Ejercicio60.IngresoId.resources

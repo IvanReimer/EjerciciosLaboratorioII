@@ -1,0 +1,10 @@
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_33\Consola\bin\Debug\Consola.exe.config
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_33\Consola\bin\Debug\Consola.exe
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_33\Consola\bin\Debug\Consola.pdb
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_33\Consola\bin\Debug\Libros.dll
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_33\Consola\bin\Debug\Libros.pdb
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_33\Consola\obj\Debug\Consola.csprojAssemblyReference.cache
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_33\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_33\Consola\obj\Debug\Consola.csproj.CopyComplete
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_33\Consola\obj\Debug\Consola.exe
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_33\Consola\obj\Debug\Consola.pdb

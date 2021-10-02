@@ -1,0 +1,6 @@
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_31\AtencionAlCliente\obj\Debug\AtencionAlCliente.csprojAssemblyReference.cache
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_31\AtencionAlCliente\obj\Debug\AtencionAlCliente.csproj.CoreCompileInputs.cache
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_31\AtencionAlCliente\bin\Debug\AtencionAlCliente.dll
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_31\AtencionAlCliente\bin\Debug\AtencionAlCliente.pdb
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_31\AtencionAlCliente\obj\Debug\AtencionAlCliente.dll
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_31\AtencionAlCliente\obj\Debug\AtencionAlCliente.pdb

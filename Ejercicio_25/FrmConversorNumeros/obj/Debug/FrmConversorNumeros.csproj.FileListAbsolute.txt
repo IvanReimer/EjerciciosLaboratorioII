@@ -1,0 +1,13 @@
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_25\FrmConversorNumeros\bin\Debug\FrmConversorNumeros.exe.config
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_25\FrmConversorNumeros\bin\Debug\FrmConversorNumeros.exe
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_25\FrmConversorNumeros\bin\Debug\FrmConversorNumeros.pdb
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_25\FrmConversorNumeros\obj\Debug\FrmConversorNumeros.csprojAssemblyReference.cache
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_25\FrmConversorNumeros\obj\Debug\FrmConversorNumeros.ConversorNumeros.resources
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_25\FrmConversorNumeros\obj\Debug\FrmConversorNumeros.Properties.Resources.resources
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_25\FrmConversorNumeros\obj\Debug\FrmConversorNumeros.csproj.GenerateResource.cache
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_25\FrmConversorNumeros\obj\Debug\FrmConversorNumeros.csproj.CoreCompileInputs.cache
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_25\FrmConversorNumeros\obj\Debug\FrmConversorNumeros.exe
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_25\FrmConversorNumeros\obj\Debug\FrmConversorNumeros.pdb
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_25\FrmConversorNumeros\bin\Debug\Conversor.dll
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_25\FrmConversorNumeros\bin\Debug\Conversor.pdb
+C:\Users\ivan.reimer\Desktop\ProgramacionII\Ejercicios\Ejercicio_25\FrmConversorNumeros\obj\Debug\FrmConversorNumeros.csproj.CopyComplete
